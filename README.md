@@ -14,7 +14,7 @@ A full-stack MERN web application that allows citizens to submit urban complaint
 ## 🗂 Project Structure
 
 ```
-cityzen-complaint-system/
+CityZen/
 ├── backend/          # Express.js REST API
 │   ├── config/       # MongoDB connection
 │   ├── middleware/   # JWT auth middleware
